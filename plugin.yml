@@ -1,0 +1,11 @@
+name: Moderator Moderation
+author: Dr_Blackapple
+version: 1.0
+main: fr.dr_blackapple.mm.Main
+commands:
+    mm:
+        permission: moderatormoderation.panel
+    panel:
+        permission: moderatormoderation.panel
+    report:
+        description: Report un joueur
